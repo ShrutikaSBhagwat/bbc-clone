@@ -1,0 +1,73 @@
+.main{
+    display:flex;
+    justify-content:space-between;
+}
+.one{
+    display: flex;
+
+}
+.img2{
+    width:3rem;
+    margin-top: 9%;
+    margin-left: 2rem;;
+}
+
+
+.two{
+    display:flex;
+    justify-content: center;
+    width:3px;
+} 
+
+.home{
+    display: flex;
+    justify-content: center;
+}
+p{
+    margin-left: 10px;
+    font-weight: bolder;
+    margin-bottom: 0rem;
+    margin-top: 0rem;
+
+}
+p:hover{
+    background-color: rgb(231, 229, 226);
+}
+
+h1{
+    font-family: "BBC Reith Serif", Helvetica, Arial, sans-serif;
+}
+
+.micron{
+    font-family: "BBC Reith Sans", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    text-transform: none;
+    text-decoration: none;
+    letter-spacing: -0.14px;
+    color: rgb(0, 0, 0);
+}
+.help{
+  margin-left: 290px;
+
+}
+
+.imgs1{
+    width:670px;
+    height:auto;
+    justify-content: center;
+
+}
+.imgs{
+    margin-right: 340px;
+}
+
+
+.padding{
+    font-size: 20px;
+    
+}
+.para{
+    font-size: 18px;
+}
